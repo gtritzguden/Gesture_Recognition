@@ -1,0 +1,9 @@
+# --- MediaPipe & Model Maker ---
+mediapipe==0.10.21
+mediapipe-model-maker==0.2.1.4
+
+# --- Backend TensorFlow (indispensable pour Model Maker) ---
+tensorflow==2.15.1
+
+# --- Processing & Data ---
+numpy==1.26.4
